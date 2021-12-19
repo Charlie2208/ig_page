@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #000000;
+    color: #fff;
+    font-family: "raleway";
+}
+/* nav{
+    font-size: 50px;
+   
+    width: 1280px;
+    
+}
+nav h1{
+    padding: 20px;
+    font-weight: 500;
+} */
+
+/* #hero-section{
+    background-image: url("../img/bg-header.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    position: relative;
+} */
+
+/* des-section*/
+
+
+#desc-section{
+    background-color: #000000;
+    padding: 20px;
+    color: white;
+}  
+
+#desc-section img{
+    height: 399px;
+    margin-left: 100px;
+   
+}
+
+#desc-section img, .texto{
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 50px;
+}
+
+#desc-section .texto{
+    text-align: left;
+    font-size: 19px;
+    font-weight: 300;
+    color: #FFFFFF;
+    margin-left: 80px;
+}
+
+/* section iconos*/
+
+#sec-iconos{
+    background-color: #1E1A13;
+    padding: 5rem;
+}
+
+/* #sec-iconos .titulo{
+   
+    font-size: 47px;
+    text-align: center;
+    font-weight: 500;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+
+#sec-iconos article{
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+    
+
+}
+#sec-iconos article p {
+    text-align: center;
+    font-size: 45px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    
+}
+
+#sec-iconos article i{
+    text-align: center;
+    font-size: 45px;
+} */
+
+
+/* imagenes*/
+
+/* #imagenes{
+    background-color: #000000; 
+    padding: 5rem;
+    display: inline-block;
+}
+
+#imagenes img{
+    width: 300px;
+    margin-left: 8rem;    
+} */
+
+
+/* footer*/
+
+footer {
+    text-align: center;
+    color: #ffffff;
+    font-weight: 300;
+    padding: 30px;
+    background: #1e1a13;
+  }
+
+  
